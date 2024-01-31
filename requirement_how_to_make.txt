@@ -1,0 +1,3 @@
+$ cd .\Clash_of_Clans_com_Python_Flet
+$ .\venv\Scripts\activate
+$ pip freeze > requirements.txt
